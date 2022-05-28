@@ -1,2 +1,2 @@
 # BancoDigital-ARV
-Criação do banco digital ARV utilizando conhecimentos adquiridos sobre Java e Orientação a Objetos.
+Criação do banco digital ARV utilizando conhecimentos adquiridos sobre Java e Orientação a Objetos. Neste projeto utilizei conceitos de abstração, encapsulamentos,  herança, polimorfismo. Foi desenvolvido as funções de saque, depósito, transferência e extrato. Além disso, também foram criadas as classes de Pessoa Física, Pessoa Jurídica as quais são classes filhas da classe Pessoa Herança e que poderão utilizar os serviços oferecidos pelo banco digital ARV. 
